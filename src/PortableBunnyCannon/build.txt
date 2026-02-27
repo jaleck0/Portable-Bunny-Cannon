@@ -1,0 +1,3 @@
+displayName = Portable BunnyCannon Mod
+author = Jalecko
+version = 0.1
