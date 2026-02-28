@@ -1,3 +1,3 @@
-Portable bunny cannon mod
+Portable Bunny Cannon Mod
 
-made by: Jalecko
+Made by: Jalecko

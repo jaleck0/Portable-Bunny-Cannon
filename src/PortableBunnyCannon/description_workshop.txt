@@ -1,1 +1,15 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+Mod that lets you craft a portable version of the Bunny cannon
+
+Shoots actual Exploding Bunnies!
+
+The best weapon in the game, now in the palm of your hands 
+
+Crafted with:
+ 1x Bunny Cannon
+ 1x Grenade Launcher
+ 1x Illegal Gun Parts
+25x Hallowed Bars
+
+Made by: Jalecko
+
+Source code: https://github.com/jaleck0/Portable-Bunny-Cannon
